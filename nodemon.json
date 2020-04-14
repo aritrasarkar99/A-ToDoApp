@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "aritra",
+        "MONGO_PASSWORD":"punki2112",
+        "MONGO_DATABASE": "itemdata"
+    }
+}
